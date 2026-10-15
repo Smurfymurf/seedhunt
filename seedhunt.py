@@ -17,7 +17,7 @@ import requests
 
 # ---------------------------------------------------------------- config
 
-UA = {"User-Agent": "seedhunt/1.2", "Accept": "application/vnd.github+json"}
+UA = {"User-Agent": "seedhunt/1.3", "Accept": "application/vnd.github+json"}
 TOKEN = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
 if TOKEN:
     UA["Authorization"] = f"Bearer {TOKEN}"
@@ -75,8 +75,8 @@ EVM_RPCS = {
     "base":     ["https://mainnet.base.org"],
     "bsc":      ["https://bsc-dataseed.binance.org"],
 }
-BTC_INDEXES = 2
-EVM_INDEXES = 3
+BTC_INDEXES = 1
+EVM_INDEXES = 2
 
 # ---------------------------------------------------------------- plumbing
 
@@ -318,6 +318,48 @@ def balance(chain, a):
     _bal_cache[k] = out
     return out
 
+def prefetch_balances(pairs):
+    """Bulk-fill _bal_cache so the per-address loop is all cache hits."""
+    btc = [a for c, a in pairs if c == "bitcoin"]
+    evm = [a for c, a in pairs if c == "evm"]
+
+    for i in range(0, len(btc), 50):
+        chunk = btc[i:i + 50]
+        for a in chunk: _bal_cache[("bitcoin", a)] = 0.0
+        try:
+            r = requests.get("https://blockchain.info/multiaddr",
+                             params={"active": "|".join(chunk), "n": len(chunk)}, timeout=25)
+            if r.status_code == 200:
+                for e in r.json().get("addresses", []):
+                    _bal_cache[("bitcoin", e["address"])] = e.get("final_balance", 0) / 1e8
+        except Exception:
+            pass
+
+    for chain, rpcs in EVM_RPCS.items():
+        for i in range(0, len(evm), 50):
+            chunk = evm[i:i + 50]
+            for rpc in rpcs:
+                try:
+                    payload = [{"jsonrpc": "2.0", "id": j, "method": "eth_getBalance",
+                                "params": [a, "latest"]} for j, a in enumerate(chunk)]
+                    r = requests.post(rpc, json=payload, timeout=25)
+                    if r.status_code != 200: continue
+                    res = r.json()
+                    if not isinstance(res, list): continue
+                    for a in chunk: _bal_cache.setdefault(("evm", a), {})
+                    for item in res:
+                        try:
+                            a = chunk[item["id"]]
+                            v = int(item["result"], 16) / 1e18
+                        except Exception:
+                            continue
+                        if v > 0:
+                            d = _bal_cache.setdefault(("evm", a), {})
+                            if isinstance(d, dict): d[chain] = v
+                    break
+                except Exception:
+                    continue
+
 # ---------------------------------------------------------------- triage
 
 def fetch_raw(repo, path, branch=None):
@@ -325,7 +367,7 @@ def fetch_raw(repo, path, branch=None):
     for b in dict.fromkeys([branch] if branch else ["main", "master"]):
         try:
             r = requests.get(f"https://raw.githubusercontent.com/{repo}/{b}/{qp}",
-                             timeout=25, stream=True, headers={"User-Agent": "seedhunt/1.2"})
+                             timeout=25, stream=True, headers={"User-Agent": "seedhunt/1.3"})
         except requests.RequestException:
             continue
         if r.status_code != 200: continue
@@ -370,9 +412,6 @@ def triage(args):
         if pp: jobs += [("seed", p, pp) for p in seeds]
     jobs += [("key", k, "") for k in keys]
 
-    say(f"[triage] deriving + checking balances ({len(jobs)} jobs)")
-    results = []
-
     def derive_job(kind, secret, passphrase):
         try:
             if kind == "key":
@@ -383,17 +422,24 @@ def triage(args):
         except Exception as e:
             return secret, passphrase, [], str(e)
 
-    with ThreadPoolExecutor(BAL_WORKERS) as ex:
-        for fut in as_completed([ex.submit(derive_job, *j) for j in jobs]):
-            secret, pp, rows, err = fut.result()
-            hits = []
-            for chain, path, a in rows:
-                bal = balance(chain, a)
-                if bal and (bal if isinstance(bal, float) else any(bal.values())):
-                    hits.append((chain, path, a, bal))
-            results.append({"secret": secret, "passphrase": pp, "rows": rows,
-                            "funded": hits, "error": err})
-            if hits: say(f"    FUNDED  {secret[:40]}")
+    say(f"[triage] deriving {len(jobs)} wallets")
+    derived = [derive_job(*j) for j in jobs]
+
+    pairs = [(c, a) for _, _, rows, _ in derived for c, _p, a in rows]
+    say(f"[triage] bulk prefetch for {len(pairs)} addresses")
+    prefetch_balances(pairs)
+
+    say(f"[triage] checking")
+    results = []
+    for secret, pp, rows, err in derived:
+        hits = []
+        for chain, path, a in rows:
+            bal = balance(chain, a)
+            if bal and (bal if isinstance(bal, float) else any(bal.values())):
+                hits.append((chain, path, a, bal))
+        results.append({"secret": secret, "passphrase": pp, "rows": rows,
+                        "funded": hits, "error": err})
+        if hits: say(f"    FUNDED  {secret[:40]}")
 
     results.sort(key=lambda r: -len(r["funded"]))
     FIND_FILE.write_text(json.dumps(results, indent=2))
