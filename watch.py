@@ -52,20 +52,26 @@ def main():
         if time.time() > deadline - 300: break
         qstate[q] = now; used += 1
         try:
-            for c in sh.search_github_code(q, 1, 800):
+            got = sh.search_github_code(q, 1, 800)
+            if not got and " " in q:
+                got = sh.search_github_code(q.rsplit(" ", 1)[0], 1, 800)
+            for c in got:
                 k = f"{c.repo}/{c.path}"
                 if k in seen and now - seen[k] < RESCAN_DAYS * 86400: continue
                 cands[k] = c
+            print(f"    {q} -> {len(got)}")
         except Exception as e:
             print("query failed:", q, e)
 
     for rx in sh.GREP_REGEXES:
         if time.time() > deadline - 300: break
         try:
-            for c in sh.search_grepapp(rx, 2):
+            got = sh.search_grepapp(rx, 2)
+            for c in got:
                 k = f"{c.repo}/{c.path}"
                 if k in seen and now - seen[k] < RESCAN_DAYS * 86400: continue
                 cands[k] = c
+            print(f"    grep {rx[:30]} -> {len(got)}")
         except Exception as e:
             print("grep failed:", e)
 
@@ -105,10 +111,9 @@ def main():
 
     # ---- 4. persist
     save(SEEN_F, seen); save(ADDR_F, addrs); save(ALERT_F, alerted); save(QSTATE, qstate)
-    if new_funds:
-        notify("watch run done",
-               f"{len(cands)} new files, {len(addrs)} addresses tracked, {new_funds} new funded")
-              print(f"[watch] done. tracking {len(addrs)} addresses.")
+    notify("watch run done",
+           f"{len(cands)} new files, {len(addrs)} addresses tracked, {new_funds} new funded")
+    print(f"[watch] done. tracking {len(addrs)} addresses.")
 
 if __name__ == "__main__":
     main()
