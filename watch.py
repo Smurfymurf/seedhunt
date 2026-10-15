@@ -105,9 +105,10 @@ def main():
 
     # ---- 4. persist
     save(SEEN_F, seen); save(ADDR_F, addrs); save(ALERT_F, alerted); save(QSTATE, qstate)
-    notify("watch run done",
-           f"{len(cands)} new files, {len(addrs)} addresses tracked, {new_funds} new funded")
-    print(f"[watch] done. tracking {len(addrs)} addresses.")
+    if new_funds:
+        notify("watch run done",
+               f"{len(cands)} new files, {len(addrs)} addresses tracked, {new_funds} new funded")
+              print(f"[watch] done. tracking {len(addrs)} addresses.")
 
 if __name__ == "__main__":
     main()
