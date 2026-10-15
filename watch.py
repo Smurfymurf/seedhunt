@@ -6,7 +6,7 @@ Wraps seedhunt.py with:
   - persistent state, so a repo/path is never scanned twice
   - query rotation, so coverage widens over time instead of repeating
   - periodic balance re-checks on every address ever derived
-  - ntfy alerts only for NEWLY funded wallets
+  - ntfy alerts the moment anything funded appears
 """
 
 import argparse, json, os, random, time
@@ -15,8 +15,8 @@ import requests
 import seedhunt as sh
 
 STATE = Path("state"); STATE.mkdir(exist_ok=True)
-SEEN_F, ADDR_F, ALERT_F, QSTATE = (STATE / n for n in
-    ("seen.json", "addresses.json", "alerts.json", "queries.json"))
+SEEN_F, ADDR_F, QSTATE = (STATE / n for n in ("seen.json", "addresses.json", "queries.json"))
+FUNDED_F = STATE / "funded.json"
 RESCAN_DAYS, RECHECK_DAYS = 180, 30
 
 def load(p, d): return json.loads(p.read_text()) if p.exists() else d
@@ -42,12 +42,25 @@ def main():
     deadline = now + a.minutes * 60
 
     seen = load(SEEN_F, {}); addrs = load(ADDR_F, {})
-    alerted = load(ALERT_F, {}); qstate = load(QSTATE, {})
+    qstate = load(QSTATE, {}); funded = load(FUNDED_F, {})
     new_funds = 0
 
     def persist():
         save(SEEN_F, seen); save(ADDR_F, addrs)
-        save(ALERT_F, alerted); save(QSTATE, qstate)
+        save(QSTATE, qstate); save(FUNDED_F, funded)
+
+    def record_funded(chain, addr, path, seed, bal):
+        """Dedupe, alert, and archive in one place."""
+        nonlocal new_funds
+        key = f"{chain}:{addr}"
+        if key in funded: return
+        funded[key] = {"chain": chain, "addr": addr, "path": path, "seed": seed,
+                       "balance": bal,
+                       "found": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())}
+        new_funds += 1
+        print("  FUNDED", key, bal)
+        notify("FUNDED SEED",
+               f"{bal} {chain}\naddr {addr}\npath {path}\nseed {seed}", "high")
 
     try:
         # ---- 1. rotating discovery, least-recently-used query first
@@ -98,6 +111,8 @@ def main():
                     for chain, path, addr in r["rows"]:
                         addrs.setdefault(f"{chain}:{addr}",
                                          {"seed": r["secret"], "path": path, "checked": now})
+                    for chain, path, addr, bal in r["funded"]:
+                        record_funded(chain, addr, path, r["secret"], bal)
             persist()
             print(f"[watch] state saved. tracking {len(addrs)} addresses.")
 
@@ -112,17 +127,15 @@ def main():
             except Exception:
                 continue
             addrs[k]["checked"] = now
-            if bal and (bal if isinstance(bal, float) else any(bal.values())) and k not in alerted:
-                alerted[k] = now; new_funds += 1
-                print("  NEW FUNDS", k, bal)
-                notify("NEW FUNDS", f"{bal} {chain}\naddr {addr}\npath {addrs[k]['path']}\n"
-                                    f"seed {addrs[k]['seed']}", "high")
+            if bal and (bal if isinstance(bal, float) else any(bal.values())):
+                record_funded(chain, addr, addrs[k]["path"], addrs[k]["seed"], bal)
 
     finally:
         persist()
         notify("watch run done",
-               f"{len(addrs)} addresses tracked, {new_funds} new funded")
-        print(f"[watch] done. tracking {len(addrs)} addresses.")
+               f"{len(addrs)} addresses tracked, {new_funds} new funded, "
+               f"{len(funded)} total ever")
+        print(f"[watch] done. {len(funded)} funded addresses known.")
 
 if __name__ == "__main__":
     main()
