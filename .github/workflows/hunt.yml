@@ -29,7 +29,7 @@ jobs:
         run: pip install -q requests mnemonic bip-utils
 
       - name: hunt
-        run: python watch.py --minutes 14
+        run: python watch.py --minutes 20 --discover 14
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
