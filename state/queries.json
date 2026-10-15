@@ -1,0 +1,16 @@
+{
+ "\"seedPhrase\" language:TypeScript stars:0..2": 1792102368.285787,
+ "\"seedPhrase\" language:TypeScript stars:3..10": 1792102368.285787,
+ "mnemonic filename:.env stars:201..1000": 1792102368.285787,
+ "filename:mnemonic.txt stars:0..2": 1792102368.285787,
+ "\"seedPhrase\" language:JavaScript stars:51..200": 1792102368.285787,
+ "filename:.secret stars:11..50": 1792102368.285787,
+ "mnemonic filename:config.js stars:0..2": 1792102368.285787,
+ "MNEMONIC= filename:.env stars:51..200": 1792102368.285787,
+ "\"seedPhrase\" language:TypeScript stars:51..200": 1792102368.285787,
+ "mnemonic filename:hardhat.config.js stars:0..2": 1792102368.285787,
+ "mnemonic filename:deploy.js stars:>1000": 1792102368.285787,
+ "mnemonic filename:*.json stars:0..2": 1792102368.285787,
+ "mnemonic filename:.env stars:3..10": 1792102368.285787,
+ "mnemonic filename:truffle-config.js stars:51..200": 1792102368.285787
+}

@@ -1,0 +1,7589 @@
+[
+ {
+  "repo": "ardriveapp/ardrive-core-js",
+  "path": "src/types/seed_phrase.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "chatchailim/SecureGen",
+  "path": "src/types.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "vaultseed/vaultseedv2",
+  "path": "src/types/vault.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "andreww99982-code/scanner_crypto",
+  "path": "src/types.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "suyashpradhan/token-predictor-visualizer",
+  "path": "lib/toyModel.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "userkaranb/idiom-app",
+  "path": "src/types.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "threefoldtecharchive/threefold_login_js_sdk",
+  "path": "src/threefoldLogin.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "dmustapha/deltaagent",
+  "path": "src/config.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Axom-ai/ethereum-mcp",
+  "path": "src/cli/init.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Aquafr198/offivex",
+  "path": "frontend/src/lib/api.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "0xbow-io/privacy-pools-website-starknet",
+  "path": "src/utils/seedPhrase.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "iov-one/starname-npm",
+  "path": "src/signers/seedPhrase.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "near/near-api-js",
+  "path": "src/seed-phrase/index.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "RunOnFlux/ssp-key",
+  "path": "src/lib/revealSeedPhrase.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "liquality/chainify",
+  "path": "packages/near/lib/types.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "jolocom/smartwallet-app",
+  "path": "src/hooks/sdk.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "jolocom/smartwallet-app",
+  "path": "src/translations/strings.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ardriveapp/ardrive-core-js",
+  "path": "src/wallet_dao.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ardriveapp/ardrive-cli",
+  "path": "src/commands/index.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "wanderwallet/Wander",
+  "path": "src/wallets/generator.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "madfish-solutions/templewallet-mobile",
+  "path": "src/shelter/shelter.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "RadarTech/wallet-manager",
+  "path": "src/types.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "syscoin/pali-wallet",
+  "path": "e2e/harness/config.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "jolocom/jolocom-lib",
+  "path": "ts/recovery/recovery.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "tendermint/dex-demo",
+  "path": "ui/src/constants/routes.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "kyokan/bob-extension",
+  "path": "src/ui/ducks/wallet.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "filecoin-shipyard/filecoin.js",
+  "path": "src/utils/keystore.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "monerochan-ecosystem/monero-wallet-api",
+  "path": "seedphrase/src/api.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "cardstack/cardwallet",
+  "path": "src/model/wallet.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "penumbra-zone/web",
+  "path": "packages/wasm/src/keys.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "superhero-com/superhero-wallet",
+  "path": "src/popup/router/routes.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "wavesplatform/waves-transactions",
+  "path": "src/seedUtils/index.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "jackkru69/ton-wallet-ext",
+  "path": "src/ton/ton.utils.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "CasperDash/casperdash-web",
+  "path": "src/utils/seedPhrase.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "alamgirhossein041/NavaraWallet",
+  "path": "hooks/useSeedPhrase.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Web3Auth/mpc-core-kit",
+  "path": "src/constants.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "X9Developers/stakenet-web-ui",
+  "path": "src/utils/keyring.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ton-connect/ton-connect-qa",
+  "path": "qa/WalletExtension.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "AEERPlatform/fgwallet_opensource",
+  "path": "src/hooks/useSeedPhrase.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ritiks236/web3-wallet",
+  "path": "src/hooks/useSeedphrase.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "X9Developers/stakenet-web-ui",
+  "path": "src/utils/validation.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Mark-DeOriginal/Spring.fun",
+  "path": "src/helpers/getSeedPhrase.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "RunOnFlux/ssp-key",
+  "path": "src/store/ssp/index.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "xtools-at/colibri",
+  "path": "sdk/typescript/src/types.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "TwilightDuck/lp-sniper",
+  "path": "src/index.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "AstroxNetwork/FoxIC",
+  "path": "scripts/deployer.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ICBNetwork/web3-Wallet",
+  "path": "app/util/regex/index.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "litecoin-foundation/nexus",
+  "path": "src/utils/hdWallets.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "wanderwallet/Wander",
+  "path": "src/utils/analytics.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "sora-xor/sora2-wallet-web",
+  "path": "src/consts/index.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "PsyProtocol/doge-sdk",
+  "path": "src/wallet/types.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ORIGYN-SA/candb-client-typescript",
+  "path": "src/ClientUtil.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "kasware-wallet/extension",
+  "path": "src/ui/utils/index.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "magiclabs/redpacket",
+  "path": "scripts/deploy.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "luniehq/cosmos-keys",
+  "path": "src/types.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "xanderjl/p5-starter",
+  "path": "src/util/convertSeed.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "cashninjas/minting-contract",
+  "path": "invoke-payout.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "cashninjas/minting-contract",
+  "path": "minting-setup.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Hebilicious/mnemonic-to-private-key",
+  "path": "src/index.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Steward-Fi/steward",
+  "path": "packages/cli/src/format.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Minke-Labs/minke-wallet",
+  "path": "src/model/backup.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Minke-Labs/minke-wallet",
+  "path": "src/model/wallet.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "joseabraham/serverless-puppeteer-metamask",
+  "path": "lib/index.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "pedrouid/hdnode-js",
+  "path": "src/hdnode.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Dablclub/polygon-mcp",
+  "path": "src/index.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "coinbase/onchaintestkit",
+  "path": "src/configBuilder.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "jolocom/fueling-service",
+  "path": "ts/config.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "eckoDAO-org/ecko-wallet",
+  "path": "src/utils/chainweb.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "threefoldtecharchive/threefold_login_js_sdk",
+  "path": "src/utils/crypto.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "eckoDAO-org/ecko-wallet",
+  "path": "src/utils/storage.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "froydlacie49/opensea-trader",
+  "path": "src/types.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "PsyProtocol/doge-sdk",
+  "path": "src/wallet/provider.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "labscommunity/arweavekit",
+  "path": "src/lib/wallet.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "helikonlabs/substrate-simple-payout",
+  "path": "src/payout-daemon.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "4IRE-Labs/near-sdk",
+  "path": "src/account.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "xorddotcom/metadot-extension",
+  "path": "src/routing.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "OpenFuturePlatform/open-chain-ui",
+  "path": "src/mocks/wallet.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Parad0x-Labs/dna-x402",
+  "path": "x402/src/privacy/pii.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "PortalTechnologiesInc/portal-app",
+  "path": "utils/onboarding.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "labscommunity/arweavekit",
+  "path": "src/types/wallet.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "rezerov/wdk-mcp",
+  "path": "src/db/types.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "baties/OpenEscrow",
+  "path": "apps/api/src/lib/logger.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "litecoin-foundation/nexus",
+  "path": "src/reducers/onboarding.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "jolocom/fueling-service",
+  "path": "ts/keyManager.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "liftedinit/alberto",
+  "path": "e2e/pages/home.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "OpenFuturePlatform/open-chain-ui",
+  "path": "src/actions/wallet.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "cnrad/zroi",
+  "path": "src/wallet.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "baolongt/sns-mcp-server",
+  "path": "src/wallet.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "qti3e/negar",
+  "path": "app/utils/seedphrase.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "wolfinslimited-collab/timetrade-wallet",
+  "path": "src/utils/seedPhrase.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "TristanBietsch/bitcoinJS-wallet",
+  "path": "src/store/importStore.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "xorddotcom/metadot-extension",
+  "path": "src/utils/accounts.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "jolocom/fueling-service",
+  "path": "ts/fuelAgent.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "PurroWallet/purro-extension",
+  "path": "src/client/lib/utils.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "witnet/ethrpc-gateway",
+  "path": "src/lib/ethers/server.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "xorddotcom/metadot-extension",
+  "path": "src/constants/index.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "OpenAgentsInc/commander",
+  "path": "src/types/pane.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "keep-starknet-strange/kage",
+  "path": "src/profile/network.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "keep-starknet-strange/kage",
+  "path": "src/profile/profile.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "xorddotcom/metadot-extension",
+  "path": "src/components/index.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:TypeScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "connext/monorepo",
+  "path": ".env.examples",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "pooltogether/pooltogether-pool-contracts",
+  "path": ".envrc.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "vacuumlabs/adalite",
+  "path": "app/cypress/.env.cypress",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "wbobeirne/eth-balance-checker",
+  "path": ".envexample",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "0xsequence/wallet-contracts",
+  "path": "config/PROD.env.sample",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "cryppadotta/dotta-license",
+  "path": "dot-license-cli/.env.network.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "NibiruChain/nibiru",
+  "path": "evm/e2e/.env_sample",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "pooltogether/v4-core",
+  "path": ".envrc.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "GoodAI/charlie-mnemonic",
+  "path": ".env_sample",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Sifchain/sifnode",
+  "path": "smart-contracts/.env.ui.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "EtherealEngine/Blockchain-in-a-Box",
+  "path": ".env.default",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "passportxyz/passport-scorer",
+  "path": "api/.env-sample",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "knowledge/ethereum-contracts",
+  "path": ".env-sample",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Python-Cardano/pycardano",
+  "path": "examples/more_examples/.env-example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "akash-network/console",
+  "path": "apps/api/env/.env.unit.test",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "EtherealEngine/Blockchain-in-a-Box",
+  "path": "packages/api/.env.default",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "PatrickAlphaC/chainlink_defi",
+  "path": "sample.envrc",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "chuckbergeron/etherplate",
+  "path": ".envrc.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "akash-network/console",
+  "path": "apps/tx-signer/env/.env.unit.test",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "matter-labs-archive/rollup",
+  "path": "etc/env/dev.env.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "prosopo/captcha",
+  "path": "packages/cli/src/process.env.ts",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "dethertech/detherContracts",
+  "path": ".env-example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "harmony-one/H2O",
+  "path": ".envSample",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "nori-dot-eco/contracts",
+  "path": ".env.defaults",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "khaliduddin/egg-picker",
+  "path": ".env_template",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Idle-Labs/idle-contracts",
+  "path": ".env.public",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "vegaprotocol/frontend-monorepo",
+  "path": "apps/trading/.env.capsule",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "zodiaceco/zodiac",
+  "path": ".env.sample",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "terra-money/shuttle",
+  "path": "eth/.env_example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "terra-money/shuttle",
+  "path": "fee/.env_example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "teleport-computer/teleport-gramine-rs",
+  "path": "private.env.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "terra-money/shuttle",
+  "path": "terra/.env_example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "creaton-io/creaton",
+  "path": ".env.default",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "vegaprotocol/frontend-monorepo",
+  "path": "apps/governance/.env.capsule",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "scrtlabs/SecretJS-Templates",
+  "path": ".env.local.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "LiskHQ/lisk-contracts",
+  "path": ".env.devnet",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "LiskHQ/lisk-contracts",
+  "path": ".env.mainnet",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "LiskHQ/lisk-contracts",
+  "path": ".env.testnet",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Revolution-Populi/token-sale-contracts",
+  "path": ".env.dist",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "kroma-network/kroma-up",
+  "path": ".env.mainnet",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "kroma-network/kroma-up",
+  "path": ".env.sepolia",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "scrtlabs/SecretJS-Templates",
+  "path": ".env.mainnet.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "scrtlabs/SecretJS-Templates",
+  "path": ".env.testnet.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "2key/contracts",
+  "path": ".env.2key",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "etherisc-legacy/HurricaneGuard",
+  "path": ".env-sample",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "plasma-group/pigi",
+  "path": "packages/unipig/config/.env.service.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "plasma-group/pigi",
+  "path": "packages/unipig/config/.env.contract.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "octopus-network/solana-flux-aggregator",
+  "path": ".env.sandbox",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Scott-778/coinmarketcap-sniper-bot",
+  "path": ".env",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "perpetual-protocol/perp-collateral-liquidator",
+  "path": ".env.build.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "creaton-io/creaton",
+  "path": ".env.staging.default",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "dappforce/grillchat",
+  "path": ".env.local.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "White-Whale-Defi-Platform/white-whale-bots",
+  "path": "src/envs/examples/.env.injective.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "wbobeirne/eth-balance-checker",
+  "path": ".env",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "razor-network/oracle-contracts",
+  "path": ".env.tpl",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "wBanano/wban-dApp",
+  "path": ".env.default",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "creaton-io/creaton",
+  "path": ".env.production.default",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "GenerationSoftware/pt-v5-vault",
+  "path": ".envrc.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "bloxberg-org/peer-review-app",
+  "path": ".env-template",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "carboclan/dapp.honeylemon.market",
+  "path": "packages/contracts/.env.kovan",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "transmute-industries/sidetree.js",
+  "path": "packages/dashboard/.env.ropsten.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "oreoswap/oreoswap-contract-main",
+  "path": ".env-sample",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "bytesbay/web3-token",
+  "path": ".env",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "GenerationSoftware/pt-v5-prize-pool",
+  "path": ".envrc.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "White-Whale-Defi-Platform/white-whale-bots",
+  "path": "src/envs/examples/.env.terra.liquidation.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Bink-AI/BinkOS",
+  "path": "packages/core/.env.example.for.test",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "mobilecoinofficial/ledger-mob",
+  "path": ".envrc",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "pooltogether/pooltogether-rng-contracts",
+  "path": ".envrc.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "EspeoBlockchain/gardener-smart-contracts",
+  "path": ".env.tpl",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "unicef/bounties",
+  "path": ".env-example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "mimo-capital/mimo-defi",
+  "path": ".envexample",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "levelkdev/dxtrust",
+  "path": ".env.development.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "pooltogether/ERC5164",
+  "path": ".envrc.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "towns-protocol/towns",
+  "path": "packages/stress-testing/.env.example.beta",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ercref/ercref-contracts",
+  "path": "ERCs/eip-2135/.env.tmpl",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ercref/ercref-contracts",
+  "path": "ERCs/eip-5732/.env.tmpl",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Lay3rLabs/wavs-foundry-template",
+  "path": "script/template/.env.example.operator",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Bink-AI/BinkOS",
+  "path": "packages/plugins/swap/.env.example.for.test",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "harmony-one/hardhat-starter-pack",
+  "path": ".env.default",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "leionion/bitcoinjs-lib-inscription-service-skeleton",
+  "path": ".env - Copy.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "dukedaily/solidity-hardhat-kit",
+  "path": ".env.bak",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "morph-l2/morph",
+  "path": "ops/docker/layer1/configs/values.env.template",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "myriadsocial/myriad-api",
+  "path": ".env-template",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "blockchain-it-hr/ethererum-poa-clique-kubernetes-template",
+  "path": ".env.stag",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "KOSASIH/nexus-revoluter",
+  "path": ".env",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "pooltogether/loot-box",
+  "path": ".envrc.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ionicprotocol/monorepo",
+  "path": "packages/sdk/.env.dist",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "wighawag/stratagems",
+  "path": "helper-services/fuzd/.env.default",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "AlisProject/tip-verification",
+  "path": ".envrc.sample",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "radixir/radixir",
+  "path": ".envrc.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "rada-network/nft4charity",
+  "path": "backend/.envexample",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "algorandfoundation/xgov-beta-web",
+  "path": ".env.mainnet",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "algorandfoundation/xgov-beta-web",
+  "path": ".env.testnet",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "UniqueNetwork/unique-marketplace-checkout-api",
+  "path": ".env-local",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "MeshJS/midnight-starter-template",
+  "path": "counter-cli/.env_template",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "mezo-org/validator-kit",
+  "path": "docker/mainnet.env.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "mezo-org/validator-kit",
+  "path": "native/mainnet.env.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "mezo-org/validator-kit",
+  "path": "native/testnet.env.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "mezo-org/validator-kit",
+  "path": "docker/testnet.env.example",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "cambiumteam/pinning_service",
+  "path": ".env.default",
+  "source": "github",
+  "query": "mnemonic filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "lnbook/lnbook",
+  "path": "code/docker/bitcoind/bitcoind/keys/demo_mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "eth-infinitism/bundler",
+  "path": "packages/bundler/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "dbamman/anlp19",
+  "path": "data/movie_summaries/Johnny_Mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "selfcustody/krux",
+  "path": "simulator/sequences/edit-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "selfcustody/krux",
+  "path": "simulator/sequences/tools-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "selfcustody/krux",
+  "path": "simulator/sequences/encrypt-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "iron-fish/ironfish",
+  "path": "ironfish/src/rpc/routes/wallet/__importTestCases__/pak_mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ChoiceCoin/Voting",
+  "path": "Bronze_Badges/JAYBEE_BRONZE_BADGE/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "blocto/bloctoswap-contracts",
+  "path": "dev-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "iron-fish/ironfish",
+  "path": "ironfish/src/rpc/routes/wallet/__importTestCases__/0p1p65_mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "selfcustody/krux",
+  "path": "simulator/sequences/dock/_load-24-word-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "selfcustody/krux",
+  "path": "simulator/sequences/cube/_load-24-word-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "selfcustody/krux",
+  "path": "simulator/sequences/cube/_load-12-word-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "selfcustody/krux",
+  "path": "simulator/sequences/dock/_load-12-word-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "selfcustody/krux",
+  "path": "simulator/sequences/amigo/_load-12-word-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "selfcustody/krux",
+  "path": "simulator/sequences/amigo/_load-24-word-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "selfcustody/krux",
+  "path": "simulator/sequences/load-mnemonic-double-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "selfcustody/krux",
+  "path": "simulator/sequences/yahboom/_load-12-word-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "selfcustody/krux",
+  "path": "simulator/sequences/yahboom/_load-24-word-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "selfcustody/krux",
+  "path": "simulator/sequences/m5stickv/_load-24-word-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "selfcustody/krux",
+  "path": "simulator/sequences/m5stickv/_load-12-word-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "selfcustody/krux",
+  "path": "simulator/sequences/wonder-mv/_load-24-word-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "selfcustody/krux",
+  "path": "simulator/sequences/wonder-mv/_load-12-word-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "cosmos/testnets",
+  "path": "local/previous-local-testnets/v8-rho/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "cosmos/testnets",
+  "path": "local/previous-local-testnets/v7-theta/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "demining/CryptoDeepTools",
+  "path": "17BTCRecoverCryptoGuide/Licences/shamir-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "douggilliland/Retro-Computers",
+  "path": "6502/Books/65C816_info/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "cafe-desktop/ctk",
+  "path": "testsuite/a11y/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "optixx/quickdev16",
+  "path": "files/docs/snes/65816/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "thmrevenant/tryhackme",
+  "path": "rooms/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "linuxmint/gtk",
+  "path": "testsuite/a11y/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Distrotech/gtk2",
+  "path": "testsuite/a11y/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "endlessm/gtk",
+  "path": "testsuite/a11y/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "bobanetwork/boba_legacy",
+  "path": "packages/boba/bundler/localconfig/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "CryptoXploit/BTCRecover",
+  "path": "Licences/shamir-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "multiversx/mx-sdk-testwallets",
+  "path": "users/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "multiversx/mx-sdk-testwallets",
+  "path": "validators/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "aq-org/AQ",
+  "path": "prototype/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "cyberomanov/celestia-transfer",
+  "path": "data/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "gordian-engine/gcosmos",
+  "path": "example-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "cyberomanov/sui-bullshark",
+  "path": "data/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ImAbdollahzadeh/LiBOS",
+  "path": "I_ASM_STUFF/is_mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "bogatyy/rollup-amm-tps-test",
+  "path": "mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "najibyahya/Solana-Tools",
+  "path": "mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "eth-infinitism/bundler-test-executor",
+  "path": "bundlers/aabundler/workdir/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "aq-org/AQ",
+  "path": "prototype/aqstl.aqbc.mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "volodymyrprokopyuk/go-wallet",
+  "path": "hdwallet/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "hyphacoop/cosmos-ansible",
+  "path": "examples/validator-keys/validator-40/self-delegation-wallet-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "hyphacoop/cosmos-ansible",
+  "path": "examples/validator-keys/validator-28/self-delegation-wallet-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "hyphacoop/cosmos-ansible",
+  "path": "examples/validator-keys/validator-32/self-delegation-wallet-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "LaGuerrePiece/p2pBridge",
+  "path": "mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "hyphacoop/cosmos-ansible",
+  "path": "examples/validator-keys/local-genesis/self-delegation-wallet-mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "DecentralizedGeo/green-bond",
+  "path": "packages/hardhat/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "aq-org/AQ",
+  "path": "prototype/hello-world.aqbc.mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "SinghNO/Assembler",
+  "path": "mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "0xad1onchain/VacciNFT",
+  "path": "mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "waitwtfff/dInsurance",
+  "path": "mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ventureum/ventureum",
+  "path": "solidity/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ZackyMrf/merak_auto",
+  "path": "mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "0xCryptoAngel/CluckyChicks_NFT_App",
+  "path": "packages/hardhat/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "MCApollo/repo",
+  "path": "data/gtk+3/gtk+-3.24.12/testsuite/a11y/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "normadn/frens",
+  "path": "contracts/hardhat/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "parodyBit/witnet_tools",
+  "path": "data/vectors/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ZhengYuHao/Film-recommendation-system",
+  "path": "books/Johnny Mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "mohsenrahmanikivi/SmartBLock",
+  "path": "SDmemoryFiles/MNEMONIC.TXT",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "13carpileup/wikiscraper",
+  "path": "data/Mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "giulionyakunga/Quad-Flight-Controller",
+  "path": "bluewallet mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "thomas-waite/bundler",
+  "path": "packages/bundler/localconfig/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "glebskix/computer_science_basics",
+  "path": "commands/io/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "glebskix/computer_science_basics",
+  "path": "tracing/txt/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "glebskix/computer_science_basics",
+  "path": "commands/if/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "MCApollo/repo",
+  "path": "data/gtk+3/gtk+-3.24.12+iPhone/testsuite/a11y/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "caiharry/StopCovidHackathon",
+  "path": "super_insecure_mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "hansmrtn/q-diplomacy",
+  "path": "packages/hardhat/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "cbonoz/hackfs21",
+  "path": "packages/hardhat/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "vhawk19/KittyParty",
+  "path": "packages/hardhat/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ShreyPaharia/SnapNFT",
+  "path": "packages/hardhat/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Ifechukwudaniel/that-sock",
+  "path": "packages/hardhat/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "JaychouGo/wallets-generate",
+  "path": "wallets/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "mystic-lab/interaccounts",
+  "path": "network/hermes/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "kirito-0512/data",
+  "path": "dump/Mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "AnOversizedMooseWithSocks/leCore",
+  "path": "lecore_data/knowledge/LICENSE_BIP39_MNEMONIC.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ArpanDhamelia/ColdChain",
+  "path": "mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Pathfinder1996/sic-xe-assembler",
+  "path": "mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "danivideda/mnemonic-to-keys-and-addresses",
+  "path": "mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "leandrogomesmachado/gerar_endereco_bitcoin_offline",
+  "path": "mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "manojkgorle/account-abstraction-learning",
+  "path": "mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Jemteddy/gaillacsec",
+  "path": "AllenAIScience/Ressources/wiki_Zoology mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "AlukweJonesTerah/carbon-market",
+  "path": "backend/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "glebskix/computer_science_basics",
+  "path": "commands/addressed/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "dvinubius/tiny-multisig-typescript",
+  "path": "packages/hardhat-ts/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "glebskix/computer_science_basics",
+  "path": "commands/unaddressed/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "likern/gtk-patched",
+  "path": "testsuite/a11y/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "cyberomanov/sui-quests-3",
+  "path": "data/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "avaxto/libavax",
+  "path": "stuff/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "vanities/speedrun-ethereum",
+  "path": "challenge-2-token-vendor/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "unicornultrafoundation/aa-bundler",
+  "path": "packages/bundler/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "peteward44/nesulator",
+  "path": "docs/snesdocs/cpu/65816/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "frens-pool/frens-contracts",
+  "path": "hardhat/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "hackashell/Lending-nAAn",
+  "path": "backend/mnemonic.txt",
+  "source": "github",
+  "query": "filename:mnemonic.txt",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "MubashirMalik/F21-40-R-HDWallet",
+  "path": "src/SeedPhrase.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Cypher-CP0/Syph-Web-Based-Wallet",
+  "path": "src/SeedPhrase.jsx",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ndau/ndau-wallet",
+  "path": "src/screens/SeedPhrase.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "JessicaBanini/minetwork",
+  "path": "src/SeedPhrase.jsx",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "GuillermoBlasco/faythe",
+  "path": "src/v1.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "SPOTWEBDEV/online-banking1",
+  "path": "js/wallet.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "NEAR-Hispano/claim-twitter-account",
+  "path": "src/claim.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Consensys/eth-lightwallet",
+  "path": "lib/upgrade.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Sharad-Banga/Electron",
+  "path": "Electron/src/Seed.jsx",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Consensys/eth-lightwallet",
+  "path": "lib/keystore.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ndau/ndau-wallet",
+  "path": "src/utils/SeedPhrase.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Pav1esa/SecureBit",
+  "path": "js/Seedphrase.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "subramanianv/CertificateVerification",
+  "path": "src/Accounts.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "atomiclabs/hyperdex",
+  "path": "app/index.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "atomiclabs/hyperdex",
+  "path": "app/portfolio-util.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "liquality/wallet",
+  "path": "src/router/index.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "near/near-seed-phrase",
+  "path": "index.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "subramanianv/CertificateVerification",
+  "path": "src/app.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "dante4rt/sonic-odyssey-bot",
+  "path": "src/solanaUtils.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "neynarxyz/create-farcaster-mini-app",
+  "path": "bin/index.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "amingclawdev/toolBoxClient",
+  "path": "toolService/index.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "CirclesUBI/circles-myxogastria",
+  "path": "src/views/Login.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Manta-Network/manta-signer",
+  "path": "ui/src/App.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "CirclesUBI/circles-myxogastria",
+  "path": "src/routes.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "MinterTeam/minter-js-sdk",
+  "path": "src/tx.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "CirclesUBI/circles-myxogastria",
+  "path": "src/services/wallet.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "MinterTeam/minter-js-sdk",
+  "path": "src/link.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "MinterTeam/minter-js-sdk",
+  "path": "src/utils.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "MinterTeam/minter-js-sdk",
+  "path": "src/check.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "neynarxyz/create-farcaster-mini-app",
+  "path": "bin/init.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "grinfans/Niffler",
+  "path": "src/lang/ko.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "near/corgis",
+  "path": "ci/deploy.mjs",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "MinterTeam/minter-js-sdk",
+  "path": "src/api/post-tx.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "salmon-wallet/salmon-wallet-v2",
+  "path": "src/utils/wallet.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "grinfans/Niffler",
+  "path": "src/lang/zh.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "gnosis/1155-to-20",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "grinfans/Niffler",
+  "path": "src/lang/en.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "atomiclabs/hyperdex",
+  "path": "app/renderer/api.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "grinfans/Niffler",
+  "path": "src/lang/ru.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "cardstack/cardwallet",
+  "path": "src/redux/wallets.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "grinfans/Niffler",
+  "path": "src/lang/tr.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "grinfans/Niffler",
+  "path": "src/lang/nl.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "grinfans/Niffler",
+  "path": "src/lang/fr.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ICBNetwork/web3-Wallet",
+  "path": "app/core/Vault.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "merland/seedpicker",
+  "path": "lib/logic.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "pcaversaccio/mnemonic-to-private-key",
+  "path": "script.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "weifund/weifund-dapp-basic",
+  "path": "src/keystore.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "near-examples/crossword-tutorial-chapter-1",
+  "path": "src/App.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Fantom-foundation/bnbridge.exchange",
+  "path": "sdk/helpers/bnb.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "jupiter-project/metis",
+  "path": "config/_methods.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "near-examples/crossword-tutorial-chapter-1",
+  "path": "src/utils.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "samjhill/skin-wallet",
+  "path": "docs/app.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "pcaversaccio/metatx",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "merland/seedpicker",
+  "path": "lib/presentation.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "tradelayer-wallet/TL-Extension",
+  "path": "components/showSeedPhrase.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "near-examples/nearnames",
+  "path": "src/state/app.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "adshares/ads-browser-wallet",
+  "path": "app/utils/keybox.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Mnuralim/bot-sonic-sol",
+  "path": "index.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "DigixGlobal/sigmate",
+  "path": "lib/bin/keystore.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "DigixGlobal/sigmate",
+  "path": "src/bin/keystore.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "alicedapp/alice-react-native",
+  "path": "src/App.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "zavodil/near-api-server",
+  "path": "user.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Mnuralim/bot-sonic-sol-multi-phrase-PK",
+  "path": "index.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "endpass/endpass-wallet",
+  "path": "src/validation/index.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "metaspartan/kronos",
+  "path": "controllers/auth.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "arielgabizon/Zcash-Eth-Atomic-Trades",
+  "path": "public/js/wallet.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Datum/datum-sdk",
+  "path": "lib/datumIdentity.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Hebilicious/mnemonic-to-private-key",
+  "path": "lib/index.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "balidani/emoji",
+  "path": "src/core/rng.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "memberapp/memberapp.github.io",
+  "path": "js/settings.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ponkssol/Solana-Wallet",
+  "path": "index.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "noxonsu/noxonsu_old.github.io",
+  "path": "erc20dashboard.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "screadore/Social_engagement_token_faucet",
+  "path": "frontend/src/App.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "trustlessCapital/tcap-mobile",
+  "path": "src/@Routing/AuthStack.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ICBNetwork/web3-Wallet",
+  "path": "e2e/viewHelper.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "torusresearch/torus-website",
+  "path": "src/store/actions.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "near-examples/crossword-tutorial-chapter-2",
+  "path": "src/App.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "harmony-one/dapp-examples",
+  "path": "nodejs/testWallet.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "near-examples/crossword-tutorial-chapter-3",
+  "path": "src/utils.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "near-examples/crossword-tutorial-chapter-3",
+  "path": "src/index.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "bigchaindb/project-jannowitz",
+  "path": "js-examples/issue2226.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "near-examples/crossword-tutorial-chapter-2",
+  "path": "src/utils.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Emmennater/GLMC",
+  "path": "src/other/setup.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "jupiter-project/metis-api",
+  "path": "config/_methods.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "jimpick/wallaby-fevm-msg-signer",
+  "path": "index.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "near-examples/crossword-tutorial-chapter-3",
+  "path": "src/App.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Fantom-foundation/bnbridge.exchange",
+  "path": "processing/helpers/bnb.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Emmennater/GLMC",
+  "path": "src/other/helper.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ordimint/web-app",
+  "path": "pages/wallet/ordimint.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "metaspartan/kronos",
+  "path": "controllers/simple/txs.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "capitual/eth-cli",
+  "path": "lib/index.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "rahulthakkar796/tron-wallet-hd",
+  "path": "lib/keystore.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "SwingbyProtocol/SpecOne",
+  "path": "contract/truffle.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "rusfearuth/EthConsoleWallet",
+  "path": "src/wallet/types.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "waves-enterprise/js-sdk",
+  "path": "examples/policy.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "waves-enterprise/js-sdk",
+  "path": "examples/atomic.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "froydlacie49/opensea-trader",
+  "path": "main.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "witnet/ethrpc-gateway",
+  "path": "src/bin/reef/index.ts",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "sekuja/tonweb-wallet-generator",
+  "path": "src/generate.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "cryptocurpays/coin-cryptocurrency-exchange",
+  "path": "service/keystoreeth.js",
+  "source": "github",
+  "query": "\"seedPhrase\" language:JavaScript",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "cnych/kubernetes-learning",
+  "path": "docs/29.Secret.md",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "grillazz/fastapi-sqlalchemy-asyncpg",
+  "path": ".secrets",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "fballiano/docker-magento2",
+  "path": "varnish.secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Cranot/roam-code",
+  "path": ".secretsallow",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "CMSgov/bcda-app",
+  "path": ".secrets",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "camptocamp/c2cgeoportal",
+  "path": ".secretsignore",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "glific/glific",
+  "path": "config/dev.secret.exs.txt",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "WSU-ACM/askeecs",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "backuppc/cygwin-rsyncd",
+  "path": "rsyncd.secrets",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "navikt/detsombetyrnoe",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "lightninglabs/LangChainBitcoin",
+  "path": ".env.secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "mbrenig/SheetSync",
+  "path": ".secrets",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "eea/eea.docker.postfix",
+  "path": ".secret.example",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "status-im/infra-nimbus",
+  "path": ".envrc.secrets",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "cardano-foundation/catalyst-voices",
+  "path": ".secret.template",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "camptocamp/tilecloud-chain",
+  "path": ".secretsignore",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "transip/transip-api-php",
+  "path": ".secretsignore",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "PECE-project/drupal-pece",
+  "path": ".secretsignore",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "TechfaneTechnologies/QtsApp",
+  "path": ".env.secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "MTES-MCT/monitorfish",
+  "path": ".secrets.example",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "transip/tipctl",
+  "path": ".secretsignore",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "NeoDoggy/BetterMochi",
+  "path": "conf.secret.h",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ibm-bluemix-mobile-services/bms-clientsdk-swift-core",
+  "path": ".secret.baseline",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "glacjay/govpn",
+  "path": "openvpn.secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "stencila/hub",
+  "path": ".secrets",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "camptocamp/c2cwsgiutils",
+  "path": ".secretsignore",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "automation64/aplatform64",
+  "path": "dot.secrets.env",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Malo-Kerebel/hb-c4-tootbot",
+  "path": "imgur.secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "eea/european.cache.registry",
+  "path": ".secret.example",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Malo-Kerebel/hb-c4-tootbot",
+  "path": "reddit.secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "dataseeek/MagesticAI",
+  "path": ".secretsignore",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Malo-Kerebel/hb-c4-tootbot",
+  "path": "twitter.secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "treetrunkio/treetrunk-nft-reference-implementation",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "t4sk/solidity-multi-sig-wallet",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Luos-io/sdk-ts",
+  "path": ".act/.secrets",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "rfadams/docker-l2tpipsec-vpn",
+  "path": "ipsec.secrets",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "camptocamp/helm-qwc-services",
+  "path": ".secretsignore",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "TheDesignExchange/app",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "francbartoli/gee-bridge",
+  "path": ".env.secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "gao-hongnan/omniverse",
+  "path": ".secrets.sample",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "andrewpuch/multi_region_vpn_connection",
+  "path": "ipsec.secrets",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "supersoniko/aws-secrets-dotenv",
+  "path": ".secretsrc",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "iHub/udl",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Swiss-Armed-Forces/Loom",
+  "path": ".secretsignore",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "X2Agent/MarketAssistant",
+  "path": ".secrets",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "promptable/chatbot_cli",
+  "path": ".env.secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "jackyef/ssr-benchmarks",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "LexiccLabs/SemiotNet",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "mrismailt/why-r-2022-serverless-r-in-the-cloud",
+  "path": ".secrets",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "devhani/NFT-Auction-Marketplace",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Paper-House/PaperHouse",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "vesta-finance/vesta-protocol-v1",
+  "path": "git.secrets.js",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "austintgriffith/poa-blockscout-docker",
+  "path": "dev.secret.exs",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "grillazz/fastapi-greatexpectations",
+  "path": ".secrets",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "gauthamzz/ayyo",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "solangegueiros/token-sol-minter",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "LabPLC/donde_checarme",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "vegaprotocol/Staking_Bridge",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ppsite/argocd-in-action",
+  "path": ".secretfiles",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "eea/eea.docker.jenkins.dind",
+  "path": ".secret.example",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Barklim/onlyfBackend",
+  "path": "README.secret.md",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ikoula/docker-l2tp-ipsec-vpn",
+  "path": "ipsec.secrets",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "european-dynamics-rnd/circuloos-data-platform",
+  "path": ".env.secrets",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "siddhant-vij/Content-Amplify-Hub",
+  "path": "gh.secrets",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "bunn-io/rembg-web",
+  "path": ".nektos.secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "HacktoberFestBoston/Hacktoberfest2018",
+  "path": ".secret.md",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "DRepublic-io/EIP-3664",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "bhavnicksm/pokemon-card-explorer",
+  "path": ".secrets",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "JustinGuo13/Orbit",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "vmmuthu31/Immovables-web3build",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "painted-porch/marcus",
+  "path": ".secretsignore",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "rotty3000/osgi-config-aff",
+  "path": "configs/a.secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "DevelopmentPractice201405/akis_app",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "The-Poolz/PoolzToken",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "alvfig/shell_totp",
+  "path": "tokens.secrets",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "mulodo-japan/tm_training",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "smaster0517/NFTPolygon",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "spjmurray/docker-strongswan",
+  "path": "ipsec.secrets",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "devmad119/NFTProject",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "graphistry/louie-py",
+  "path": ".secret-patterns.md",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "adriendulong/supply-chain-solidity",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "LukasMosser/force_npd_llm_hackathon",
+  "path": ".env.secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "lucasespinosa28/Celo-Tutorial",
+  "path": "demo/.secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "LabPLC/muevete_sedesa",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "angrave/CS241-Lectures-SP22",
+  "path": "code/lec28/.secret.txt",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "uc-cdis/dbgap-pfb",
+  "path": ".secrets.baseline",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "davebracken/PKA-Marker",
+  "path": ".env.secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "CyberStrike/tombstone",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "gangsterveggies/loop-oni",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "anshaik/anonnyq",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "benreichman/AAVE-V2-FlashLoan-Uniswap-V2-Arbitrage",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "GigameshGarages/ConcertNet",
+  "path": ".secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "iblai/standard",
+  "path": "library/.secrets",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "boostcampwm2025/web08-JAMstack",
+  "path": ".env.secret",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "FelixSchausberger/nixos",
+  "path": ".secretsignore",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "toschoch/python-turtlpy",
+  "path": ".secrets",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "jey3dayo/dotfiles",
+  "path": ".env.secrets",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "JoshuaDodds/cerbomoticzgx",
+  "path": ".secrets-example",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "av5ja/av5ja",
+  "path": ".secrets.example",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "antimetal/system-agent",
+  "path": ".secrets.example",
+  "source": "github",
+  "query": "filename:.secret",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "pushchain/push-notifications-smart-contracts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "jbx-protocol/juice-contracts-v3",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Blockgames-TeamB/ZuriSchool",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "CreativeBuilds/cheese-scripts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "0xdcota/hardhat-playground",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "GOATkeepers/tuttle-contracts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "district0x/ethlance",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "weaveworks/weave-gitops",
+  "path": "jest.config.js",
+  "source": "github",
+  "query": "mnemonic filename:config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "stakewithus/defi-by-example",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "decentraland/land",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "polymorpher/one-wallet",
+  "path": "code/config.js",
+  "source": "github",
+  "query": "mnemonic filename:config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "n0name-sw3/flash-arbitrage-watcher",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "0xPolygon/genesis-contracts",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "yearn/yearn-vaults-v3",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "kendricktan/heiswap-dapp",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "forta-network/forta-contracts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Sifchain/sifchain-ui",
+  "path": "e2e/config.js",
+  "source": "github",
+  "query": "mnemonic filename:config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "qubistlabs/jwallet-web",
+  "path": "src/config.js",
+  "source": "github",
+  "query": "mnemonic filename:config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "lukso-network/rICO-smart-contracts",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "relevant-community/contracts",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ashbeech/moralis-nft-game",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "kumabid/idex-contracts-silverton",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "oasislabs/erc20-rust",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Dodging-Turtis/Dodging-Turtis",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "bifrost-platform/BIFI",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "hashgraph/hedera-stable-coin-solidity-ethereum",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ndrblinov/ton-nft-deployer",
+  "path": "output/config.js",
+  "source": "github",
+  "query": "mnemonic filename:config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "imcrazysteven/Initial-Coin-Offering-Smart-Contract",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "AmbireTech/signature-validator",
+  "path": "testConfig.js",
+  "source": "github",
+  "query": "mnemonic filename:config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "DXgovernance/dxvote",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "SwingbyProtocol/BEP20Token",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "rrecuero/open-proofs",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "carboclan/y3d-protocol",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "DistributedCollective/oracle-based-amm",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "chefkebab/smart-contracts",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "netgum/archanova-contracts",
+  "path": "config.js",
+  "source": "github",
+  "query": "mnemonic filename:config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "laminar-protocol/flow-protocol-ethereum",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "1500256797/hardhat-demo-project",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "cashpokerpro-dev/cash-smartcontracts",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "orionprotocol/orion-exchange",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "DanielAbalde/NFT-On-Chain-Metadata",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "flexa/capacity-smart-contracts",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Steemhunt/neverlose.money-contract",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "w1nt3r-eth/rings-for-loot",
+  "path": "next.config.js",
+  "source": "github",
+  "query": "mnemonic filename:config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "CoinbaseStablecoin/eip-3009",
+  "path": "config.js.example",
+  "source": "github",
+  "query": "mnemonic filename:config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Hsiang-xxs/via-issuer",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "4lgn/bep-20-templates",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "HAECHI-LABS/solidity-tdd",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "masaun/arbitrage-btw-wbtc-and-eth",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "YosephKS/truffle-opensea-nft",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "KeithPatrick5/honktipbot",
+  "path": "src/config.js",
+  "source": "github",
+  "query": "mnemonic filename:config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "mudgen/transparent-contracts-erc1538",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "save-dai/savedai-contract-v1",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "WillPapper/AdventureGold",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "vergecurrency/VergeSlim",
+  "path": "vue.config.js",
+  "source": "github",
+  "query": "mnemonic filename:config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Eterland/eterland-public-smart-contracts",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "bancorprotocol/gov-contracts",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "debridge-finance/debridge-contracts-obsolete",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "defi-777/defi777-contracts",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "AlkemiNetwork/alkemi-reserve-contracts",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "pranavdaa/NFT-MarketPlace-BackEnd",
+  "path": "config/config.js",
+  "source": "github",
+  "query": "mnemonic filename:config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "miohtama/viral-aave-save-game",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "bttcprotocol/contracts",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "SwizzSamuel/GFD-Token",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "gabe565/mnemonic-ninja",
+  "path": "vite.config.js",
+  "source": "github",
+  "query": "mnemonic filename:config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "input-output-hk/etc_treasury_system",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "kukapay/token-minter-mcp",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "placesDAO/places-contracts",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "BoringDAO/boringDAO-contract",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "achadha235/niftycrate",
+  "path": "config.js",
+  "source": "github",
+  "query": "mnemonic filename:config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "rapexa/Competitive_game",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "reef-defi/hardhat-reef-examples",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "edgeless-casino/smart-contracts",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "etherisc/flightdelay-contracts",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "FuturICT2/FIN4Contracts",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "OmegaSyndicate/DEX",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "gidonkatten/algo-green-bond",
+  "path": "algob.config.js",
+  "source": "github",
+  "query": "mnemonic filename:config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "gautamdhameja/simple-tcr",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "p2p-org/openmarket-demo",
+  "path": "store/config.js",
+  "source": "github",
+  "query": "mnemonic filename:config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "bitnician/Delance-truffle",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "lab10-coop/lab10-token",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "valory-xyz/autonolas-registries",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "R3D4NG3L/PresaleSmartContract",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ramenswap/ramen-contract",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "wissalHaji/DappTuto",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "mikeygee/bip39",
+  "path": "gatsby-config.js",
+  "source": "github",
+  "query": "mnemonic filename:config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "vegaprotocol/js-crypto",
+  "path": "rollup.config.js",
+  "source": "github",
+  "query": "mnemonic filename:config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "gauthamzz/ayyo",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "dappuniversity/blockchain-toolkit",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "vegaprotocol/Staking_Bridge",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "nifty-gateway/NiftyWallet",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Xuefeng-Zhu/Micro-Subscription",
+  "path": "config.js",
+  "source": "github",
+  "query": "mnemonic filename:config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "uprtcl/eth-uprtcl",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "thedarkjester/ConsensysAssignment",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Fantom-foundation/Fantom-Statheros",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "kumabid/idex-farm-v2",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "HAECHI-LABS/vvisp-sample",
+  "path": "vvisp-config.js",
+  "source": "github",
+  "query": "mnemonic filename:config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "achadha235/niftycrate",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "thundercore/thunder-box",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "renproject/multichain",
+  "path": "infra/.env",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "GoodDollar/GoodDAPP",
+  "path": ".env.test",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "TrueBitFoundation/scrypt-interactive",
+  "path": ".env",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "candidelabs/candide-contracts",
+  "path": ".env.sample",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ntropika-labs/potion-core",
+  "path": "core/.env_sample",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "catalogworks/catalog-contracts",
+  "path": ".env-example",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "onthreshold/threshold",
+  "path": ".env.dist",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "originlabs-app/galileo-protocol",
+  "path": ".env.testnet.example",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "LLMAudit/LLMSmartAuditTool",
+  "path": "evaluation/benchmark/Realworld/115/core/.envexample",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "kamescg/delegatable-sol",
+  "path": ".envrc.example",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "pooltogether/v4-mainnet",
+  "path": ".envrc.example",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "xtonwallet/ton-dapp-boilerplate",
+  "path": ".env_example",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "knav-eth/runes",
+  "path": ".envrc.example",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "pooltogether/governance",
+  "path": ".envrc.example",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "pooltogether/v4-periphery",
+  "path": ".envrc.example",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "LLMAudit/LLMSmartAuditTool",
+  "path": "evaluation/benchmark/Realworld/64/v4-core/.envrc.example",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "TDD-Solidity/CrowdDrop",
+  "path": "eth/.env_SAMPLE",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "White-Whale-Defi-Platform/white-whale-bots",
+  "path": "src/envs/examples/.env.juno.example",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "pooltogether/pooltogether-contracts-mock",
+  "path": ".envrc.example",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "pooltogether/merkle-distributor",
+  "path": ".envrc.example",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "GoodDollar/GoodServer",
+  "path": ".env.dev",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "B2E2/b2e2_contracts",
+  "path": ".env",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "bneiluj/TheHumblePotato",
+  "path": ".envrc",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "AlbertoBarrago/smart-contract-service",
+  "path": ".env_sample",
+  "source": "github",
+  "query": "MNEMONIC= filename:.env",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "00labs/huma-contracts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "pushchain/push-notifications-smart-contracts-genesis",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "regen-network/toucan-bridge",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "generalgalactic/ERC721S",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "verynifty/flashloan-demo",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "jbx-protocol/juice-contracts-v1",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Fujicracy/fuji-protocol",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Badger-Finance/strategy-convex-staking-optimizer",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "SkillWallet/Legacy-contracts-V1",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "safient/contract-js",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "baofinance/bao-dao-contracts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "safient/safient-tokens",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "smartkapollo/Client-Jackson-backend-smartcontract",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Mouzayan/push-staking",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ckoopmann/NFTrail",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "zh/hardhat-multi-evm",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Hridayesh13/swap",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Dapp-Learning-DAO/Official-website-smart-contract",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Team-LADS/truElect",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "martianpremierleague/contracts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "zh/bpm-contracts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "MrSufferer/bean-machine-cli",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "kryptokredit/krypto-kredit-huma-contracts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "fight-club-dao/huma-contracts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "xjjda22/eth-scan-contracts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "xjjda22/erc20-benchmarks",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "mejango/jbx-fee",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "arome3/NFT-Ticketing-Platform",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "kanaagawa/hardhat-demo",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Sn0wYC/Contract-Handshake",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "lavacakechef/Hardhat-NFT-contract",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "yuki-devtek/BSC-Dex-Arbitrage",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "willcking/merkle-distributor-airdrop",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "sendflows/SimpleAuction",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ShenaniganDApp/DrippStaking",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "vatsal095/NFC",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "QuintusTheFifth/BBS-contracts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "githubassets/Staker",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "AphraFinance/aphra-engine",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "WETH10/WETH10",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "fuseio/fuse-network",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "bartjellema/BoringSolidity",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "alcueca/ERC3156-Wrappers",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "SwipeWallet/swipe-swap-bsc",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "OriginProtocol/ousd-governance",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "pods-finance/contracts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "skyfly200/tiny-boxes",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Delta-Financial/Smart-Contracts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Charged-Particles/charged-particles-universe",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "SwingbyProtocol/skybridge-contract",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Charged-Particles/erc721i",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "l-henri/solidity-101",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "lfj-gg/joe-lending",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "thedatafoundation/protocol-contracts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "compound-developers/compound-3-developer-faq",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "RealityETH/subjectivocracy",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ZakAyesh/dungeons-and-dragons-nfts-hardhat",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "jordan-public/ip-clob-dex",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "bitbankinc/exchangeDepositContract",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ribbon-finance/ribbon-v1",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ensdomains/reverse-records",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "mingderwang/bsc-hardhat-template",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "p00ls-archives/contracts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "defi-777/defi777-contracts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "managers-nft/erc6551-implementation",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "DXgovernance/dxdao-contracts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "valory-xyz/autonolas-governance",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "otoco-io/SmartContract",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "biswap-org/nft",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "moontography/contracts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "juincc0/optimistic-rollup-example-erc721",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "tina1998612/Learn3",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ceyonur/electanon",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ensuro/ensuro",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "deb0x/dbXenBurnerProject",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "reef-defi/reefswap",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Lemond-finance/lemond",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Muhindo-Galien/Aave-Flash-Loan-Arbitrage",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Krypto-Camp/batch2-final-project-team-7",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "67P/kredits-contracts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "z-institute/Never.Fight.Twice",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "elasticdao/contracts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "dappnode/mev-sp-contracts",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "sadityakumar9211/medichain-hardhat",
+  "path": "hardhat.config.js",
+  "source": "github",
+  "query": "mnemonic filename:hardhat.config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "KOSASIH/pi-nexus-autonomous-banking-network",
+  "path": "deploy/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "leapdao/solEVM-enforcer",
+  "path": "tools/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ScopeLift/umbra-protocol",
+  "path": "contracts-core/scripts/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "everx-labs/sdk-samples",
+  "path": "core-examples/node-js/func/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "erasureprotocol/erasure-protocol",
+  "path": "packages/testenv/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "KOSASIH/stable-pi-core",
+  "path": "token-incentive-system/scripts/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "endaoment/endaoment-contracts",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "DanielAbalde/NFT-On-Chain-Metadata",
+  "path": "scripts/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ana0/MinimumViableNFT",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "youngqqcn/QBlockChainNotes",
+  "path": "\u4ee5\u592a\u574a/day2/Inbox/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "VibeAICoder/nodejs-ethereum",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "0xHabitat/habitat-rollup",
+  "path": "scripts/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "pickle-finance/protocol",
+  "path": "scripts/polygon/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "wavesplatform/anonymous-transactions-prototype",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "clockknock/funding",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "desireevl/cat-feeder3.0",
+  "path": "dapp/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "markaltmaier/ethereum-solidity-course-updated-code",
+  "path": "inbox/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "gyr0tron/reTax",
+  "path": "etherium/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "markaltmaier/ethereum-solidity-course-updated-code",
+  "path": "lottery/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ecadlabs/token-contract-example",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "itsSauravK/Election-Voting-Blockchain",
+  "path": "ethereum/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "lifuesc/jai2021",
+  "path": "deploy/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "KOSASIH/GEE-Platform",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ruppysuppy/Crypto-Crowdfund",
+  "path": "packages/smart-contract/scripts/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "rishichordia/Community-Financing",
+  "path": "Ethereum/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Zy1920/lottery_dapp",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "leostera/warp",
+  "path": "rules/rules/fly_deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "xtonwallet/ton-dapp-boilerplate",
+  "path": "utils/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "webaverse/ethereum-bot",
+  "path": "discord/commands/not_used/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "0xTan1319/RWA-defi-nft-smart-contract",
+  "path": "scripts/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "MumbaiHackathon/CryptoDoc",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "TaraTritt/dapp-starter",
+  "path": "ethereum/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ppoply/Lottery-smart-contract",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "markaltmaier/ethereum-solidity-course-updated-code",
+  "path": "kickstart/ethereum/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "misiteer/lottery-ethereum-react",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "TovarishFin/crypto-weddings-contracts",
+  "path": "scripts/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "TONresistor/teleton-plugins",
+  "path": "plugins/gaspump/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "BANKEX/security-token",
+  "path": "samples/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "thanhnguyennguyen/smart-contract-practice",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "taia-x/taia-x",
+  "path": "contracts/scripts/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "vrde/saydao",
+  "path": "eth/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "aspiringsecurity/EMTTR",
+  "path": "messaging/scripts/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "icetea-labs/lovelock",
+  "path": "script/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "AlbertoBarrago/smart-contract-service",
+  "path": "utils/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "TenKeyLabs/dappwright-examples",
+  "path": "scripts/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "xiMenChuiXui/solidityEthereum",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "misiteer/crowd-funding-react",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "SecretFoundation/SecretHub",
+  "path": "src/scripts/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "GTON-capital/legacy-susy-v2-wormhole",
+  "path": "terra/tools/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Parsh/Lottery-DApp",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "andreashauschild/node-red-contrib-ethers-node",
+  "path": "nodes/ethers-deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "i-vishi/crowdsourcing-blockchain",
+  "path": "ethereum/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "nesaplay/Lottery-Solidity-React",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "382303784/Blockchain-based-lottery-project",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "hans-m-song/blocknet",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "davidmoradi/ethereum-lottery-smart-contract",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "adoriasoft/primex-protocol",
+  "path": "src/tasks/core/EPMXToken/EPMXToken.deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "sushantkumr/CrowdCoin",
+  "path": "client/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "dayana0425/BuyMeACoffee",
+  "path": "packages/hardhat/scripts/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "devndesigner6/unsubly",
+  "path": "scripts/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "harshitjaiswal27/CrowdCoin",
+  "path": "ethereum/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "parasol-aser/vrust-open-source",
+  "path": "examples/wormhole/terra/tools/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "sumeetkhillare/Decent-Broker",
+  "path": "ethereum/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "airchains-network/hands-on-fhevm",
+  "path": "contract-deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "archethic-foundation/aeweb-cli",
+  "path": "commands/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "roslynlu/TandaPay",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "DanielAbalde/NFT-Swapper",
+  "path": "scripts/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "gyr0tron/Ethereum_Lottery",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "chirag412vijayvergiya/Advanced-Smart-Contracts",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "chirag412vijayvergiya/Blockchain-Learning-1",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "daniellara/blockttery",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "AliErcanOzgokce/Solidity_Lottery",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "kuldeep23907/Ethereum-DApp-Development-Boilerplate",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "secomuib/HighlyPrivateManagementSystemForDigitalCOVID-19Certificates",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "chirag412vijayvergiya/Lottery",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "suhasranganath/Ethereum-Dev-Starter-Code",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "bearski/Udemy-Ethereum-Solidity",
+  "path": "inbox/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "nnx0r/web3-lottery",
+  "path": "contract/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "wavesplatform/zwaves",
+  "path": "zwaves_demo/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "fifty-wei/secret-share-documents",
+  "path": "contract/scripts/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "bearski/Udemy-Ethereum-Solidity",
+  "path": "lottery/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "davidmoradi/kickstarter-on-blockchain",
+  "path": "ethereum/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "DecentralizedGeo/green-bond",
+  "path": "packages/hardhat/scripts/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "lifuesc/minicurso-blockchain",
+  "path": "Praticas/loteria/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "IbsenFahir/myplants-nft",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "382303784/Easy-crowdfunding-project-based-on-Ethereum-s-smart-contracts",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "liwentao1118/Smart-contract-lottery",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "davidmoradi/smart-contract-boilerplate",
+  "path": "deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Halleys123/HACK_Winners",
+  "path": "backend/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "iorveth/scrt-poker-joker",
+  "path": "js-cli/commands/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "DipanshKhandelwal/Decentralized-NGO",
+  "path": "app/ethereum/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "codestates/BTC2nd-06",
+  "path": "wallet/bsc/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "gold-olar/fund-my-project",
+  "path": "eth/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ayushdubey003/CrowdCoin",
+  "path": "ethereum/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ameensol/pools-sol",
+  "path": "scripts/full_new_deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "mahmoudaboueleneen/handwritten-fonts",
+  "path": "Ethereum/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "chirag412vijayvergiya/kickstart",
+  "path": "ethereum/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Blockchain-to-the-People/blockchain-to-the-people",
+  "path": "ethereum/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "juliatan/ethereum-crowdcoin",
+  "path": "ethereum/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "DLSNemsara/ballotix-blockchain-voting",
+  "path": "ethereum/deploy.js",
+  "source": "github",
+  "query": "mnemonic filename:deploy.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "olegmitrakhovich/Defi-Arb-Bot",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "adorsys/p2p-lending",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "peppersec/flashloan-tutorial",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "keep-network/sortition-pools",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Bulleon/contract",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "dragonereum/dragonereum-contracts",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Edoumou/blockchain-based-authentication",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "nutsfinance/acBTC",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "nutsfinance/solidity-protobuf",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "0xStalin-eth/profitable_flashloans",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "BitDiem/recur",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "UniLend/lb-contracts",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "cpascoli/lp-token-staking",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "strykerin/DeFi-Token-Farm",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "kendricktan/generalized-aave-flashloans",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "wanseob/merklux",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "eolszewski/simple-payment-channel",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "gnosis/conditional-markets-interface",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "mcgraneder/Defi-Trading-Arbitrage-Bot",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "PaintSwap/paintswap-core",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "dionyziz/brick",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "cnhcgroup/cnhc-contracts",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "dappuniversity/ecrecover",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "bethanyuo/casino-dApp",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "LibertyPie/libertypie-p2p",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Genft-Studio/six-bit",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "ProofSuite/AssuranceMarket2.0",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "bitcoinbrisbane/flash-loan-scam",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "mohammed-shameem/nft-dapp",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "farhanx/ethereums-geth-and-beacon-client-POS",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "yondonfu/sol-baby-jubjub",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "adibas03/crypto-will",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "SuperblocksHQ/truffle-reference-project",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "Maddiaa0/Horcrux-crypto-inheritance",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "YourNewEmpire/Truffle-Tutorial-ERC721",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ },
+ {
+  "repo": "shishirhome/ERC-4337",
+  "path": "truffle-config.js",
+  "source": "github",
+  "query": "mnemonic filename:truffle-config.js",
+  "signals": 1,
+  "stars": 0,
+  "branch": ""
+ }
+]
