@@ -2,11 +2,8 @@
 """
 watch.py - continuous, resumable seed hunter.
 
-Wraps seedhunt.py with:
-  - persistent state, so a repo/path is never scanned twice
-  - query rotation, so coverage widens over time instead of repeating
-  - periodic balance re-checks on every address ever derived
-  - ntfy alerts the moment anything funded appears
+Partitions the search space by query x star bucket x push-date window so each
+run works genuinely new ground instead of re-reading the same top 100 results.
 """
 
 import argparse, json, os, random, time
@@ -16,8 +13,19 @@ import seedhunt as sh
 
 STATE = Path("state"); STATE.mkdir(exist_ok=True)
 SEEN_F, ADDR_F, QSTATE = (STATE / n for n in ("seen.json", "addresses.json", "queries.json"))
-FUNDED_F = STATE / "funded.json"
-RESCAN_DAYS, RECHECK_DAYS = 180, 30
+FUNDED_F, HB_F = STATE / "funded.json", STATE / "heartbeat.json"
+RESCAN_DAYS, RECHECK_DAYS = 180, 7
+RECHECK_PER_RUN = 2500
+
+DATE_WINDOWS = [
+    "pushed:>2025-06-01",
+    "pushed:2024-06-01..2025-05-31",
+    "pushed:2023-06-01..2024-05-31",
+    "pushed:2022-06-01..2023-05-31",
+    "pushed:2021-06-01..2022-05-31",
+    "pushed:2020-06-01..2021-05-31",
+    "pushed:<2020-06-01",
+]
 
 def load(p, d): return json.loads(p.read_text()) if p.exists() else d
 def save(p, v): p.write_text(json.dumps(v, indent=1))
@@ -34,8 +42,8 @@ def notify(title, msg, priority="default"):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--minutes", type=float, default=14)
-    ap.add_argument("--discover", type=float, default=8, help="minutes for discovery")
+    ap.add_argument("--minutes", type=float, default=20)
+    ap.add_argument("--discover", type=float, default=12, help="minutes for discovery")
     a = ap.parse_args()
     now = time.time()
     discover_until = now + a.discover * 60
@@ -43,14 +51,14 @@ def main():
 
     seen = load(SEEN_F, {}); addrs = load(ADDR_F, {})
     qstate = load(QSTATE, {}); funded = load(FUNDED_F, {})
+    hb = load(HB_F, {"t": 0})
     new_funds = 0
 
     def persist():
         save(SEEN_F, seen); save(ADDR_F, addrs)
-        save(QSTATE, qstate); save(FUNDED_F, funded)
+        save(QSTATE, qstate); save(FUNDED_F, funded); save(HB_F, hb)
 
     def record_funded(chain, addr, path, seed, bal):
-        """Dedupe, alert, and archive in one place."""
         nonlocal new_funds
         key = f"{chain}:{addr}"
         if key in funded: return
@@ -63,40 +71,32 @@ def main():
                f"{bal} {chain}\naddr {addr}\npath {path}\nseed {seed}", "high")
 
     try:
-        # ---- 1. rotating discovery, least-recently-used query first
-        pool = [f"{q} {b}" for q in sh.GH_QUERIES for b in sh.STAR_BUCKETS]
+        # ---- 1. rotating discovery across the full partition grid
+        pool = [f"{q} {b} {w}" for q in sh.GH_QUERIES
+                for b in sh.STAR_BUCKETS for w in DATE_WINDOWS]
         random.shuffle(pool)
         pool.sort(key=lambda q: qstate.get(q, 0))
 
-        cands, used = {}, 0
+        cands, used, hits = {}, 0, 0
         for q in pool:
             if time.time() > discover_until: break
             qstate[q] = now; used += 1
             try:
-                got = sh.search_github_code(q, 1, 800)
-                if not got and " " in q:
-                    got = sh.search_github_code(q.rsplit(" ", 1)[0], 1, 800)
+                got = sh.search_github_code(q, 1, 400)
+                fresh = 0
                 for c in got:
                     k = f"{c.repo}/{c.path}"
                     if k in seen and now - seen[k] < RESCAN_DAYS * 86400: continue
-                    cands[k] = c
-                print(f"    {q} -> {len(got)}")
+                    cands[k] = c; fresh += 1
+                hits += fresh
+                print(f"    {q} -> {len(got)} raw, {fresh} new")
             except Exception as e:
                 print("query failed:", q, e)
+            if len(cands) >= 3000:
+                print("    [cap] 3000 candidates, stopping discovery")
+                break
 
-        for rx in sh.GREP_REGEXES:
-            if time.time() > discover_until: break
-            try:
-                got = sh.search_grepapp(rx, 2)
-                for c in got:
-                    k = f"{c.repo}/{c.path}"
-                    if k in seen and now - seen[k] < RESCAN_DAYS * 86400: continue
-                    cands[k] = c
-                print(f"    grep {rx[:30]} -> {len(got)}")
-            except Exception as e:
-                print("grep failed:", e)
-
-        print(f"[watch] {used} queries, {len(cands)} new candidate files")
+        print(f"[watch] {used}/{len(pool)} partitions, {len(cands)} new candidate files")
 
         # ---- 2. triage anything new
         if cands:
@@ -116,10 +116,11 @@ def main():
             persist()
             print(f"[watch] state saved. tracking {len(addrs)} addresses.")
 
-        # ---- 3. re-check every address we have ever derived
+        # ---- 3. re-check, oldest first, bounded per run
         due = [k for k, v in addrs.items() if now - v.get("checked", 0) > RECHECK_DAYS * 86400]
-        print(f"[watch] {len(due)} addresses due for re-check")
-        for k in due:
+        due.sort(key=lambda k: addrs[k].get("checked", 0))
+        print(f"[watch] {len(due)} addresses due, checking up to {RECHECK_PER_RUN}")
+        for k in due[:RECHECK_PER_RUN]:
             if time.time() > deadline: break
             chain, addr = k.split(":", 1)
             try:
@@ -132,9 +133,15 @@ def main():
 
     finally:
         persist()
-        notify("watch run done",
-               f"{len(addrs)} addresses tracked, {new_funds} new funded, "
-               f"{len(funded)} total ever")
+        quiet = not new_funds and not cands
+        stale = now - hb.get("t", 0) > 12 * 3600
+        if not quiet or stale:
+            hb["t"] = now; save(HB_F, hb)
+            notify("watch run done",
+                   f"{len(cands)} new files, {len(addrs)} addresses, "
+                   f"{len(funded)} funded ever")
+        else:
+            print("[watch] nothing new, staying quiet")
         print(f"[watch] done. {len(funded)} funded addresses known.")
 
 if __name__ == "__main__":
