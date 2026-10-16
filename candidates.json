@@ -1,9 +1,9 @@
 [
  {
-  "repo": "NearDeFi/neth",
-  "path": "neth/src/lib/neth-lib.ts",
+  "repo": "Eclipse-Laboratories-Inc/eclipse-wallet",
+  "path": "src/utils/wallet.js",
   "source": "github",
-  "query": "\"seedPhrase\" language:TypeScript",
+  "query": "\"seedPhrase\" language:JavaScript",
   "signals": 1,
   "stars": 0,
   "branch": ""
