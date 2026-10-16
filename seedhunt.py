@@ -17,7 +17,7 @@ import requests
 
 # ---------------------------------------------------------------- config
 
-UA = {"User-Agent": "seedhunt/1.3", "Accept": "application/vnd.github+json"}
+UA = {"User-Agent": "seedhunt/1.4", "Accept": "application/vnd.github+json"}
 TOKEN = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
 if TOKEN:
     UA["Authorization"] = f"Bearer {TOKEN}"
@@ -319,21 +319,37 @@ def balance(chain, a):
     return out
 
 def prefetch_balances(pairs):
-    """Bulk-fill _bal_cache so the per-address loop is all cache hits."""
+    """Bulk-fill _bal_cache. On failure leave no entry so balance() falls back."""
     btc = [a for c, a in pairs if c == "bitcoin"]
     evm = [a for c, a in pairs if c == "evm"]
 
     for i in range(0, len(btc), 50):
         chunk = btc[i:i + 50]
-        for a in chunk: _bal_cache[("bitcoin", a)] = 0.0
+        ok = False
         try:
-            r = requests.get("https://blockchain.info/multiaddr",
-                             params={"active": "|".join(chunk), "n": len(chunk)}, timeout=25)
+            r = requests.get("https://api.blockchair.com/bitcoin/dashboards/addresses/"
+                             + ",".join(chunk), timeout=30)
             if r.status_code == 200:
-                for e in r.json().get("addresses", []):
-                    _bal_cache[("bitcoin", e["address"])] = e.get("final_balance", 0) / 1e8
+                data = (r.json() or {}).get("data") or {}
+                for a in chunk:
+                    ent = data.get(a) or {}
+                    _bal_cache[("bitcoin", a)] = (ent.get("address") or {}).get("balance", 0) / 1e8
+                ok = True
         except Exception:
             pass
+        if not ok:
+            try:
+                r = requests.get("https://blockchain.info/multiaddr",
+                                 params={"active": "|".join(chunk), "n": len(chunk)}, timeout=25)
+                if r.status_code == 200:
+                    for a in chunk: _bal_cache[("bitcoin", a)] = 0.0
+                    for e in r.json().get("addresses", []):
+                        _bal_cache[("bitcoin", e["address"])] = e.get("final_balance", 0) / 1e8
+                    ok = True
+            except Exception:
+                pass
+        if not ok:
+            print(f"    [btc] chunk {i} failed, falling back per-address")
 
     for chain, rpcs in EVM_RPCS.items():
         for i in range(0, len(evm), 50):
@@ -367,7 +383,7 @@ def fetch_raw(repo, path, branch=None):
     for b in dict.fromkeys([branch] if branch else ["main", "master"]):
         try:
             r = requests.get(f"https://raw.githubusercontent.com/{repo}/{b}/{qp}",
-                             timeout=25, stream=True, headers={"User-Agent": "seedhunt/1.3"})
+                             timeout=25, stream=True, headers={"User-Agent": "seedhunt/1.4"})
         except requests.RequestException:
             continue
         if r.status_code != 200: continue
@@ -396,7 +412,7 @@ def triage(args):
         for fut in as_completed([ex.submit(work, c) for c in cands]):
             c, phrases, keys = fut.result()
             done += 1
-            if done % 50 == 0: say(f"    ...{done}/{len(cands)}")
+            if done % 200 == 0: say(f"    ...{done}/{len(cands)}")
             for p in phrases:
                 confirmed.setdefault(p, []).append(f"{c.repo}/{c.path}")
                 say(f"    SEED  {c.repo}/{c.path}")
@@ -429,7 +445,7 @@ def triage(args):
     say(f"[triage] bulk prefetch for {len(pairs)} addresses")
     prefetch_balances(pairs)
 
-    say(f"[triage] checking")
+    say("[triage] checking")
     results = []
     for secret, pp, rows, err in derived:
         hits = []
